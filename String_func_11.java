@@ -1,6 +1,6 @@
 package string;
 
-public class Function_11 {
+public class String_func_11 {
 
 	public static void main(String[] args) {
 		

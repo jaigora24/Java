@@ -7,4 +7,4 @@ public class FahrenheitToCelsius{
         double celsius = ( (fahrenheit)-32)* 0.5555555555555556;
         System.out.println(celsius);
 	}
-}	
+}

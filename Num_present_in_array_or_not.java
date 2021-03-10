@@ -33,4 +33,4 @@ public class Num_present_in_array_or_not{
             System.out.println("No");
         }
     }
-}
+} 

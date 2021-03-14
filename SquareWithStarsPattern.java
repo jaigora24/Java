@@ -12,4 +12,4 @@ public class pattern1{
 			System.out.println();
 		}
 	}
-}
+} 

@@ -17,4 +17,4 @@ public class Admission{
 			System.out.println("Best of luck for future :)");
 		}
 	}
-}
+} 

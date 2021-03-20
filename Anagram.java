@@ -37,5 +37,4 @@ public class Anagram {
 		sc.close();
 
 	}
-
 }

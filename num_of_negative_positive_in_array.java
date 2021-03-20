@@ -15,7 +15,7 @@ public class num_of_negative_positive_in_array{
         
         for(int i=0; i<n; i++){
             if(a[i]>0){
-                positive++;                     //if no. is greater than 0 then add 1 in counting
+                positive++;                   //if no. is greater than 0 then add 1 in counting
             }
             if(a[i]<0){
                 negative++;

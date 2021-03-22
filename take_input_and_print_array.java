@@ -12,4 +12,4 @@ public class take_input_and_print_array{
             System.out.print(array[i]+" ");
         }
     }
-}
+} 

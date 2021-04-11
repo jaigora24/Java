@@ -7,4 +7,4 @@ public class String_func_11 {
 		String name = "Hello Jai Gora";
 		System.out.println(name.toLowerCase());
 	}
-}
+} 

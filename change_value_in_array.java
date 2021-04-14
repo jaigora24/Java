@@ -6,4 +6,4 @@ public class change_value_in_array{
 		System.out.println(array[2]);
 	}
 }
-//Output is "12"
+// Output is "12"

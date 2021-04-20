@@ -7,4 +7,4 @@ public class AreaOfCircle{
 		float radius = sc.nextFloat();
 		System.out.println(3.141592653589793238 * radius * radius);
 	}
-}
+} 

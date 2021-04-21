@@ -27,4 +27,4 @@ public class Transpose_of_matrix{
 			System.out.println();
 		}
 	}
-}
+} 

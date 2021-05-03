@@ -7,4 +7,3 @@ public class Print1to100{
 		}
 	}
 }
-

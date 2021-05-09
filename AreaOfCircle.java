@@ -8,4 +8,3 @@ public class AreaOfCircle{
 		System.out.println(3.141592653589793238 * radius * radius);
 	}
 } 
- 

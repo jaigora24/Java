@@ -28,4 +28,4 @@ public class Left_Pascal_Triangle{
 			System.out.println();
 		}
 	}
-}
+} 

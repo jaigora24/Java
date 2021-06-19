@@ -13,4 +13,4 @@ public class EvenAndOdd{
 			System.out.println("Number is odd");
 		}
 	}
-}
+} 

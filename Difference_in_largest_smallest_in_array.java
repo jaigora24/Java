@@ -25,4 +25,4 @@ public class Difference_in_largest_smallest_in_array{
         System.out.println("Difference between largest & smallest is : "+ result);
         
     }
-}
+} 

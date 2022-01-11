@@ -23,4 +23,4 @@ public class Anagram_method_2{
             System.out.println("Not Anagram");
         }
     }
-} 
+}

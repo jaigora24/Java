@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PrimeNumberInRange{
+public class main{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		
@@ -10,14 +10,14 @@ public class PrimeNumberInRange{
 			if(i==0 || i==1){
 				continue;
 			}
-			int flag=1;
-			for(int k=2; k<i; k++){
-				if(i%k==0){
-					flag=0;
+			boolean isPrime=true;
+			for(int j=2; j<i; j++){
+				if(i%j==0){
+					isPrime=false;
 					break;
 				}
 			}
-			if(flag==1){
+			if(isPrime){
 				System.out.print(i+" ");
 			}
 		}
